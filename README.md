@@ -4,17 +4,16 @@
 
 ---
 
-### 🚀 Perfil Técnico
-Desarrollador Backend enfocado en la construcción de **APIs REST** y arquitecturas robustas, seguras y escalables. Especializado en el diseño e implementación de soluciones lógicas y eficientes para sistemas empresariales utilizando el ecosistema **Java**.
+### Sobre Mi
+Desarrollador Backend especializado en el ecosistema **Java** y en la construcción de **APIs REST** robustas, seguras y escalables. Enfocado en el diseño de soluciones eficientes para sistemas empresariales mediante el uso de buenas prácticas, código limpio y arquitectura de software orientada a la mantenibilidad y el rendimiento.
 
-- 🛠️ **Desarrollo Backend:** Construcción de sistemas con **Spring Boot** e integración de bases de datos relacionales como **PostgreSQL**, optimizando el rendimiento de consultas y la persistencia de datos.
-- 📐 **Arquitectura y Estándares:** Diseño de APIs bajo estándares estrictos de **código limpio (Clean Code)**, arquitectura limpia y patrones de diseño, traduciendo requerimientos de negocio en endpoints modulares, mantenibles y escalables.
-- ☁️ **Cloud Computing:** Despliegue y gestión de soluciones integrando el backend con la infraestructura en la nube mediante servicios de **AWS**.
-- 📍 **Ubicación:** Moniquirá, Boyacá, Colombia.
+- **Desarrollo Backend:** Construcción de sistemas con **Spring Boot** e integración de bases de datos relacionales como **PostgreSQL**, optimizando el rendimiento de consultas y la persistencia de datos.
+- **Arquitectura y Estándares:** Diseño de APIs bajo estándares estrictos de **código limpio (Clean Code)**, arquitectura limpia y patrones de diseño, traduciendo requerimientos de negocio en endpoints modulares, mantenibles y escalables.
+- **Cloud Computing:** Despliegue y gestión de soluciones integrando el backend con la infraestructura en la nube mediante servicios de **AWS**.
 
 ---
 
-### 💻 Stack Tecnológico
+### Stack Tecnológico
 
 <p align="left">
   <!-- Lenguajes -->
@@ -49,15 +48,3 @@ API REST desarrollada bajo una arquitectura en capas para la gestión integral d
   - Manejo global de excepciones para garantizar respuestas de error estandarizadas y seguras.
   - Persistencia de datos optimizada en PostgreSQL.
 - **Tecnologías:** `Java`, `Spring Boot`, `Maven`, `PostgreSQL`, `Postman`.
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
