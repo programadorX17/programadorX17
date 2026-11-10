@@ -1,5 +1,5 @@
 <halign align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hola%2C+soy+Julián+Suárez+👋;Backend+Developer+Java+%26+Spring;Apasionado+por+la+Cloud+Computing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hola%2C+soy+Andrés+Suárez+👋; Desarrollador+Backend+Java+%26+Spring;Amante+de+la+la+Tecnología" alt="Typing SVG" />
 </halign>
 
 ---
@@ -7,7 +7,6 @@
 ### 🚀 Sobre mí
 ¡Hola! Soy un desarrollador backend enfocado en construir arquitecturas sólidas, limpias y escalables con **Java** y **Spring Boot**. Actualmente expandiendo mis habilidades hacia la ingeniería en la nube con **AWS**. Me apasiona el código limpio, el diseño de APIs REST eficientes y la resolución de problemas técnicos complejos.
 
-- 📍 Resido en **Moniquirá, Boyacá, Colombia**.
 - 🛠️ Enfocado en el desarrollo backend, bases de datos relacionales y optimización de flujos de datos.
 - 🌱 Actualmente profundizando en servicios de computación en la nube y arquitectura cloud.
 
@@ -54,9 +53,9 @@ Una API robusta desarrollada bajo una arquitectura en capas en Spring Boot para 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=programadorX17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadorX17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
