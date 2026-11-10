@@ -10,11 +10,11 @@
 ## Stack Tecnológico
 
 <p align="left">
-  <img src="https://shields.io" alt="Java"/>
-  <img src="https://shields.io" alt="Spring Boot"/>
-  <img src="https://shields.io" alt="AWS"/>
-  <img src="https://shields.io" alt="AWS Lambda"/>
-  <img src="https://shields.io" alt="DynamoDB"/>
+  <img src="https://githubusercontent.com" alt="Java" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://githubusercontent.com" alt="Spring Boot" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://githubusercontent.com" alt="AWS" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://simpleicons.org" alt="AWS Lambda" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://simpleicons.org" alt="DynamoDB" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
 </p>
 
 > **También utilizo:** Git, GitHub, Maven, Postman, AWS CLI, Draw.io.
