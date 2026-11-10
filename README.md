@@ -1,14 +1,16 @@
-<halign align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hola%2C+soy+Andrés+Suárez+👋; Desarrollador+Backend+Java+%26+Spring;Amante+de+la+la+Tecnología" alt="Typing SVG" />
-</halign>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Juli%C3%A1n+Andr%C3%A9s+Su%C3%A1rez+Torres;Desarrollador+Backend;Java+%7C+Spring+Boot+%7C+AWS;Amante+al+C%C3%B3digo" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 Sobre mí
-¡Hola! Soy un desarrollador backend enfocado en construir arquitecturas sólidas, limpias y escalables con **Java** y **Spring Boot**. Actualmente expandiendo mis habilidades hacia la ingeniería en la nube con **AWS**. Me apasiona el código limpio, el diseño de APIs REST eficientes y la resolución de problemas técnicos complejos.
+### 🚀 Perfil Técnico
+Desarrollador Backend enfocado en la construcción de **APIs REST** y arquitecturas robustas, seguras y escalables. Especializado en el diseño e implementación de soluciones lógicas y eficientes para sistemas empresariales utilizando el ecosistema **Java**.
 
-- 🛠️ Enfocado en el desarrollo backend, bases de datos relacionales y optimización de flujos de datos.
-- 🌱 Actualmente profundizando en servicios de computación en la nube y arquitectura cloud.
+- 🛠️ **Desarrollo Backend:** Construcción de sistemas con **Spring Boot** e integración de bases de datos relacionales como **PostgreSQL**, optimizando el rendimiento de consultas y la persistencia de datos.
+- 📐 **Arquitectura y Estándares:** Diseño de APIs bajo estándares estrictos de **código limpio (Clean Code)**, arquitectura limpia y patrones de diseño, traduciendo requerimientos de negocio en endpoints modulares, mantenibles y escalables.
+- ☁️ **Cloud Computing:** Despliegue y gestión de soluciones integrando el backend con la infraestructura en la nube mediante servicios de **AWS**.
+- 📍 **Ubicación:** Moniquirá, Boyacá, Colombia.
 
 ---
 
@@ -19,7 +21,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   
-  <!-- Backend / Frameworks -->
+  <!-- Frameworks & Herramientas Backend -->
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
 
@@ -31,7 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-  <!-- Herramientas -->
+  <!-- Entorno y Pruebas -->
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
@@ -41,11 +43,11 @@
 ### 📂 Proyectos Destacados
 
 #### 📚 **API REST para Gestión de Biblioteca**
-Una API robusta desarrollada bajo una arquitectura en capas en Spring Boot para la administración completa de libros y recursos bibliográficos.
-- **Características principales:**
-  - Arquitectura limpia y estructurada por capas (Controlador, Servicio, Repositorio).
-  - Manejo global de excepciones para respuestas de error claras y estandarizadas.
-  - Persistencia de datos conectada a base de datos relacional.
+API REST desarrollada bajo una arquitectura en capas para la gestión integral de recursos bibliográficos.
+- **Aspectos clave:**
+  - Diseño modular aplicando principios de código limpio y separación de responsabilidades (Controlador, Servicio, Repositorio).
+  - Manejo global de excepciones para garantizar respuestas de error estandarizadas y seguras.
+  - Persistencia de datos optimizada en PostgreSQL.
 - **Tecnologías:** `Java`, `Spring Boot`, `Maven`, `PostgreSQL`, `Postman`.
 
 ---
@@ -53,9 +55,9 @@ Una API robusta desarrollada bajo una arquitectura en capas en Spring Boot para 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programadorX17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadorX17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
