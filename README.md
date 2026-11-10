@@ -9,12 +9,11 @@
 
 ## Stack Tecnológico
 
+
 <p align="left">
-  <img src="https://githubusercontent.com" alt="Java" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://githubusercontent.com" alt="Spring Boot" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://githubusercontent.com" alt="AWS" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://simpleicons.org" alt="AWS Lambda" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="https://simpleicons.org" alt="DynamoDB" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Mis Tecnologías" />
+  </a>
 </p>
 
 > **También utilizo:** Git, GitHub, Maven, Postman, AWS CLI, Draw.io.
