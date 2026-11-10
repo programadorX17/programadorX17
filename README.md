@@ -1,32 +1,42 @@
-# ¡Hola! Soy Andrés Suárez 👋
-### Backend Developer | Cloud Specialist
+# ¡Hola! Soy Julian Andrés Suárez Torres👋
+### Backend Developer 
 
-> Construyo arquitecturas robustas y productos mínimos viables (MVP) a la medida para la transformación digital y optimización de pymes.
+> Construyo arquitecturas robustas y MVPs para la transformación digital de pymes.
 
-[💼 Portfolio](https://tu-portfolio.com) • [👔 LinkedIn](https://linkedin.com) • [✉️ Email](mailto:tu-correo@ejemplo.com)
-
----
-
-### Stack
-
-[![Stack](https://skillicons.dev)](https://skillicons.dev)
-
-> **También utilizo:** Maven, AWS CLI, Draw.io.
+[💼 Portfolio](https://github.com) • [👔 LinkedIn](https://linkedin.com) • [✉️ Email](mailto:andres1711sua@gmail.com)
 
 ---
 
-### Proyectos
+## Stack Tecnológico
 
-| Proyecto | Qué es | Stack |
+<p align="left">
+  <img src="https://shields.io" alt="Java"/>
+  <img src="https://shields.io" alt="Spring Boot"/>
+  <img src="https://shields.io" alt="AWS"/>
+  <img src="https://shields.io" alt="AWS Lambda"/>
+  <img src="https://shields.io" alt="DynamoDB"/>
+</p>
+
+*Herramientas adicionales: Git, GitHub, Maven, Postman, AWS CLI, Draw.io.*
+
+---
+
+## Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **Sistema Ventas TAT** | Sistema de ventas e inventario logístico para pymes distribuidoras. Permite consultas en tiempo real a bodega antes de la venta física y emite alertas automáticas por stock bajo. | `Java` `Spring Boot` `Git` `Maven` |
-| **Gestión Ortodoncia** | Plataforma asíncrona y *serverless* para la gestión y agendamiento en clínicas de ortodoncia. Reduce el ausentismo mediante un sistema automático de recordatorios. | `AWS Lambda` `DynamoDB` `SNS` `AWS CLI` |
+| **Sistema Ventas TAT** | Inventario y ventas en tiempo real con alertas de stock bajo para pymes. | `Java` `Spring Boot` `Git` `Maven` |
+| **Gestión Ortodoncia** | Plataforma *serverless* de agendamiento y recordatorios para clínicas. | `AWS Lambda` `DynamoDB` `SNS` `AWS CLI` |
 
 ---
 
-### Estadísticas de Actividad
+## Estadísticas
 
 <p align="center">
   <img src="https://vercel.app" alt="Estadísticas de GitHub" width="49%"/>
   <img src="https://vercel.app" alt="Lenguajes más usados" width="49%"/>
+</p>
+
+<p align="center">
+  <i>"Transformando lógica de negocio en código eficiente y escalable."</i>
 </p>
