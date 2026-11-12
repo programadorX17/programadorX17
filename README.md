@@ -41,7 +41,7 @@ Desarrollador Backend especializado en el ecosistema **Java** y en la construcci
 
 ### 📂 Proyectos Destacados
 
-#### **API REST para Gestión de Biblioteca**
+#### **-API REST para Gestión de Biblioteca**
 API REST desarrollada bajo una arquitectura en capas para la gestión integral de recursos bibliográficos.
 - **Aspectos clave:**
   - Diseño modular aplicando principios de código limpio y separación de responsabilidades (Controlador, Servicio, Repositorio).
